@@ -1,0 +1,10 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\bin\Debug\Console-FrontEnd.exe.config
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\bin\Debug\Console-FrontEnd.exe
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\bin\Debug\Console-FrontEnd.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\obj\Debug\Console-FrontEnd.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\obj\Debug\Console-FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\obj\Debug\Console-FrontEnd.exe
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\obj\Debug\Console-FrontEnd.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\bin\Debug\MenuRepositoryClasses.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\bin\Debug\MenuRepositoryClasses.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge1-KomodoCafe\Console-FrontEnd\obj\Debug\Console-FrontEnd.csproj.CopyComplete

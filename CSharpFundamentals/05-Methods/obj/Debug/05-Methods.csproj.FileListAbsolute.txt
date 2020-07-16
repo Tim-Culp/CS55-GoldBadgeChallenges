@@ -1,0 +1,14 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\05-Methods.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\05-Methods.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\obj\Debug\05-Methods.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\obj\Debug\05-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\obj\Debug\05-Methods.csproj.CopyComplete
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\obj\Debug\05-Methods.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\05-Methods\obj\Debug\05-Methods.pdb

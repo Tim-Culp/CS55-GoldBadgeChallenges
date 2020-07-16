@@ -1,0 +1,6 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-Inheritence-Classes\bin\Debug\08-Inheritence-Classes.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-Inheritence-Classes\bin\Debug\08-Inheritence-Classes.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-Inheritence-Classes\obj\Debug\08-Inheritence-Classes.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-Inheritence-Classes\obj\Debug\08-Inheritence-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-Inheritence-Classes\obj\Debug\08-Inheritence-Classes.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-Inheritence-Classes\obj\Debug\08-Inheritence-Classes.pdb

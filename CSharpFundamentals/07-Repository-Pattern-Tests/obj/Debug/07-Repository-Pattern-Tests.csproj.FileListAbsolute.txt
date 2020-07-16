@@ -1,0 +1,16 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\07-Repository-Pattern-Tests.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\07-Repository-Pattern-Tests.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\StreamingContent.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\StreamingContent.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\obj\Debug\07-Repository-Pattern-Tests.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\obj\Debug\07-Repository-Pattern-Tests.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\obj\Debug\07-Repository-Pattern-Tests.csproj.CopyComplete
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\obj\Debug\07-Repository-Pattern-Tests.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\07-Repository-Pattern-Tests\obj\Debug\07-Repository-Pattern-Tests.pdb

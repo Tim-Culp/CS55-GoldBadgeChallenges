@@ -1,0 +1,10 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\bin\Debug\ClaimClasses.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\bin\Debug\ClaimClasses.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete

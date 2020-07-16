@@ -1,0 +1,9 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\bin\Debug\08-StreamingContent-Inheritence.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\bin\Debug\08-StreamingContent-Inheritence.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\bin\Debug\StreamingContent.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\bin\Debug\StreamingContent.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\obj\Debug\08-StreamingContent-Inheritence.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\obj\Debug\08-StreamingContent-Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\obj\Debug\08-StreamingContent-Inheritence.csproj.CopyComplete
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\obj\Debug\08-StreamingContent-Inheritence.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\08-StreamingContent-Inheritence\obj\Debug\08-StreamingContent-Inheritence.pdb

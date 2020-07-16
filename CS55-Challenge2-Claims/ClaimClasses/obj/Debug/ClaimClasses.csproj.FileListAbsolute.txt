@@ -1,0 +1,6 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ClaimClasses\bin\Debug\ClaimClasses.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ClaimClasses\bin\Debug\ClaimClasses.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ClaimClasses\obj\Debug\ClaimClasses.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ClaimClasses\obj\Debug\ClaimClasses.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ClaimClasses\obj\Debug\ClaimClasses.dll
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CS55-Challenge2-Claims\ClaimClasses\obj\Debug\ClaimClasses.pdb

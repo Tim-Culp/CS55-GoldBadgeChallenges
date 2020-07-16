@@ -1,0 +1,7 @@
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\bin\Debug\00-VariablesAndValueTypes.exe.config
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\bin\Debug\00-VariablesAndValueTypes.exe
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\bin\Debug\00-VariablesAndValueTypes.pdb
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\obj\Debug\00-VariablesAndValueTypes.csprojAssemblyReference.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\obj\Debug\00-VariablesAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\obj\Debug\00-VariablesAndValueTypes.exe
+C:\Users\Knuckles\Documents\EFACSClass\GoldBadge\CSFundamentals\CSharpFundamentals\00-VariablesAndValueTypes\obj\Debug\00-VariablesAndValueTypes.pdb
