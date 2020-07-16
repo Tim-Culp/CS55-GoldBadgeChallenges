@@ -32,7 +32,7 @@ namespace ConsoleApp
         private void MainMenu()
         {
             Console.Clear();
-            Console.WriteLine("Welcome to Komodo Cafe Menu System. \n" +
+            Console.WriteLine("Welcome to Komodo Claims Menu System. \n" +
                 "Please select an option. \n" +
                 "1. View all claims \n" +
                 "2. Handle pending claims \n" +
